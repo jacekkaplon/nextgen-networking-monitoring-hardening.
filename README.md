@@ -45,7 +45,7 @@ The end-to-end technical blueprints, packet verification traces, and validation 
 * **Description:** Technical framework covering the deployment of Prometheus scrape targets, Custom Python WireGuard metrics extraction engines, and Grafana dashboard layout structures for tracking multi-peer tunnel performance.
 <br>
 
-* 👉 [Download Observability Specification (PDF)](./Real-Time Infrastructure Monitoring Embedded Systems & WireGuard Interface Health Tracking.pdf)
+* 👉 [Download Observability Specification (PDF)](<./Real-Time Infrastructure Monitoring Embedded Systems & WireGuard Interface Health Tracking.pdf>)
 
 <br>
 
