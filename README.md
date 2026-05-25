@@ -45,7 +45,7 @@ The end-to-end technical blueprints, packet verification traces, and validation 
 * **Description:** Technical framework covering the deployment of Prometheus scrape targets, Custom Python WireGuard metrics extraction engines, and Grafana dashboard layout structures for tracking multi-peer tunnel performance.
 <br>
 
-* 👉 [Download Observability Specification (PDF)](./Real-Time%20Infrastructure%20Monitoring%0AEmbedded%20Systems%20%26%20WireGuard%20Interface%20Health%20Tracking.pdf)
+* 👉 [Download Observability Specification (PDF)](./Real-Time Infrastructure Monitoring Embedded Systems & WireGuard Interface Health Tracking.pdf)
 
 <br>
 
@@ -53,7 +53,7 @@ The end-to-end technical blueprints, packet verification traces, and validation 
 * **Description:** Enterprise hardening guide detailing the elimination of plain-text DNS leaks, implementation of DNS-over-TLS (DoT via Port 853) with concurrent forwarding algorithms, and centralized local zone SSL/TLS validation profiles.
 <br>
 
-* 👉 [Download DNS Hardening Report (PDF)](./Secure%20Infrastructure%20%26%20DNS%20Hardening.pdf)
+* 👉 [Download Observability Specification (PDF)](./Real-Time%20Infrastructure%20Monitoring%20Embedded%20Systems%20%26%20WireGuard%20Interface%20Health%20Tracking.pdf)
 
 <br>
 <br>
